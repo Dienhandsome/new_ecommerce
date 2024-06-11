@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "440120792890",
+    "firebase_url": "https://n-ecommerce-e1cfa-default-rtdb.firebaseio.com",
+    "project_id": "n-ecommerce-e1cfa",
+    "storage_bucket": "n-ecommerce-e1cfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440120792890:android:8f933f1303b1e262f56203",
+        "android_client_info": {
+          "package_name": "com.example.hEmcommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440120792890-3tj4dgke08317jerf7qmpaoi76m7orgr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hEmcommerce",
+            "certificate_hash": "587fddfa9ef4be41a9832d663d1e1344cd719db2"
+          }
+        },
+        {
+          "client_id": "440120792890-8cmamv9buj80tbgm46ogsc30r58bperu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hEmcommerce",
+            "certificate_hash": "a0d769b0a2c88ab338387036f296c66d3ebc89e9"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGwrtjTYM1GTUCWDIhwc_t6FIq3dHkFAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440120792890-4qukauumi35471i3ftls96v60d7rge4k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440120792890-a8q9oo1qjdifukg6a2ic07180iv3av2h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hEmcommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440120792890:android:f6d2c0174c93e4fdf56203",
+        "android_client_info": {
+          "package_name": "com.hecommerce.appname"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440120792890-0tg80baneeostrdhc4o90i8n3vh1m23h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hecommerce.appname",
+            "certificate_hash": "587fddfa9ef4be41a9832d663d1e1344cd719db2"
+          }
+        },
+        {
+          "client_id": "440120792890-6u99tsgji3fvu02rog399jrc40u0p5mu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hecommerce.appname",
+            "certificate_hash": "a0d769b0a2c88ab338387036f296c66d3ebc89e9"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGwrtjTYM1GTUCWDIhwc_t6FIq3dHkFAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440120792890-4qukauumi35471i3ftls96v60d7rge4k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440120792890-a8q9oo1qjdifukg6a2ic07180iv3av2h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hEmcommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

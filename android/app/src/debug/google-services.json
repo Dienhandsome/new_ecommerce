@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "440120792890",
+    "project_id": "n-ecommerce-e1cfa",
+    "storage_bucket": "n-ecommerce-e1cfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440120792890:android:8f933f1303b1e262f56203",
+        "android_client_info": {
+          "package_name": "com.example.hEmcommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGwrtjTYM1GTUCWDIhwc_t6FIq3dHkFAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440120792890:android:f6d2c0174c93e4fdf56203",
+        "android_client_info": {
+          "package_name": "com.hecommerce.appname"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGwrtjTYM1GTUCWDIhwc_t6FIq3dHkFAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
